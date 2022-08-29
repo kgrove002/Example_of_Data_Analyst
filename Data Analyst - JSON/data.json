@@ -1,0 +1,21 @@
+{
+  "data":
+          [
+            {
+              "Name": "Sally",
+              "GPA": 1.5
+            },
+            {
+              "Name": "Mark",
+              "GPA": 2.5
+            },
+            {
+              "Name": "Kevin",
+              "GPA": 4
+            },
+            {
+              "Name": "Bob",
+              "GPA": 3
+            }
+          ]
+}
